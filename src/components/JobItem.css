@@ -1,0 +1,8 @@
+.job-item {
+  cursor: pointer;
+}
+
+.job-item.item img {
+  
+  max-width: 240px;
+}
